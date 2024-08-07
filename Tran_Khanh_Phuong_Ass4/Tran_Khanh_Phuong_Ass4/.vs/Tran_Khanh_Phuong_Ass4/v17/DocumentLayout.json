@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D53D2B-F4DF-489C-A912-7FFAA8A59696}|Tran_Khanh_Phuong_Ass4.vcxproj|D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\allocate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5D53D2B-F4DF-489C-A912-7FFAA8A59696}|Tran_Khanh_Phuong_Ass4.vcxproj|solutionrelative:allocate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D53D2B-F4DF-489C-A912-7FFAA8A59696}|Tran_Khanh_Phuong_Ass4.vcxproj|D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\allocate.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5D53D2B-F4DF-489C-A912-7FFAA8A59696}|Tran_Khanh_Phuong_Ass4.vcxproj|solutionrelative:allocate.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D53D2B-F4DF-489C-A912-7FFAA8A59696}|Tran_Khanh_Phuong_Ass4.vcxproj|D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5D53D2B-F4DF-489C-A912-7FFAA8A59696}|Tran_Khanh_Phuong_Ass4.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "allocate.h",
+              "DocumentMoniker": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\allocate.h",
+              "RelativeDocumentMoniker": "allocate.h",
+              "ToolTip": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\allocate.h",
+              "RelativeToolTip": "allocate.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-08T14:06:44.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "allocate.c",
+              "DocumentMoniker": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\allocate.c",
+              "RelativeDocumentMoniker": "allocate.c",
+              "ToolTip": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\allocate.c",
+              "RelativeToolTip": "allocate.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-08T14:06:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\C_FPT\\Tran_Khanh_Phuong_Ass4\\Tran_Khanh_Phuong_Ass4\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-07T16:49:18.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
